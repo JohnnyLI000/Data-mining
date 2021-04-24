@@ -1,2 +1,5 @@
-# Data-mining
-data mining with python , datasets are default loan morgage and heart disease. Algorithms including Naive Bayes , Decision Tree 
+a data mining project for academic purposes. 
+
+Datasets are default loan mortgages and heart disease. 
+
+Algorithms included Naive Bayes, Decision Tree for feature selection and prediction 
